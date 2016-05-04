@@ -320,12 +320,12 @@ INPUT /home/ashedko/.texlive2014/texmf-var/fonts/tfm/lh/lh-t2a/larm0800.tfm
 INPUT sect1.tex
 INPUT sect1.tex
 INPUT /home/ashedko/.texlive2014/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
-INPUT /home/ashedko/.texlive2014/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 INPUT /home/ashedko/.texlive2014/texmf-var/fonts/tfm/lh/lh-t2a/latt1200.tfm
+INPUT /home/ashedko/.texlive2014/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /home/ashedko/.texlive2014/texmf-var/fonts/tfm/lh/lh-t2a/larm1095.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
@@ -333,6 +333,8 @@ INPUT /home/ashedko/.texlive2014/texmf-var/fonts/tfm/lh/lh-t2a/latt1095.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 INPUT /home/ashedko/.texlive2014/texmf-var/fonts/tfm/lh/lh-t2a/labx1095.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 INPUT sect2.tex
 INPUT sect2.tex
 INPUT sect3.tex

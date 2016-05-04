@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.6)  3 MAY 2016 18:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.6)  4 MAY 2016 09:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1562,9 +1562,14 @@ Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
 ) (./sect1.tex
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 2.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 2.
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 7.
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 30.
 Package babel Info: Redefining russian shorthand "~
@@ -1581,12 +1586,6 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 77.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 86.
 Package babel Info: Redefining russian shorthand "~
@@ -1601,21 +1600,25 @@ File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
+)
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 133.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 133.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 133.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 133.
+ [5]
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
+File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )) (./sect2.tex
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 23.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 23.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 23.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 23.
-
-[5]) (./sect3.tex
+)
+(./sect3.tex
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
@@ -1625,10 +1628,19 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 1.
+ [6]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 1.
 ) (./bib.tex
 bibitemlist
 
-Underfull \hbox (badness 1127) in paragraph at lines 29--33
+Underfull \hbox (badness 1127) in paragraph at lines 38--42
 []\T2A/cmr/m/n/12 D. E. Knuth. \T2A/cmr/m/it/12 The T[]Xbook. \T2A/cmr/m/n/12 -
 -- Addison-Wesley, 1984. Рус-ский пе-ре-вод: До-
  []
@@ -1642,7 +1654,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 177.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 177.
- [6]
+ [7]
 \tf@toc=\write6
 \openout6 = `paper.toc'.
 
@@ -1656,10 +1668,10 @@ Package rerunfilecheck Info: File `paper.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
  ) 
 Here is how much of TeX's memory you used:
- 23815 strings out of 493309
- 375513 string characters out of 6140104
- 483520 words of memory out of 5000000
- 26756 multiletter control sequences out of 15000+600000
+ 23840 strings out of 493309
+ 375955 string characters out of 6140104
+ 482520 words of memory out of 5000000
+ 26763 multiletter control sequences out of 15000+600000
  31197 words of font info for 81 fonts, out of 8000000 for 9000
  953 hyphenation exceptions out of 8191
  52i,11n,45p,869b,1520s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1682,10 +1694,10 @@ t/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/cm-super/sftt1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/cm-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 cm-super/sfxc1095.pfb>
-Output written on paper.pdf (6 pages, 303024 bytes).
+Output written on paper.pdf (7 pages, 317371 bytes).
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 156 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
+ 216 PDF objects out of 1000 (max. 8388607)
+ 181 compressed objects within 2 object streams
+ 57 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
