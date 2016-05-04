@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.6)  4 MAY 2016 10:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.6)  4 MAY 2016 22:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1618,56 +1618,55 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 35.
 
 [6] (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
-)) (./sect3.tex
+)
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 82.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 82.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 82.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 82.
+ [7]) (./sect3.tex
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
-)
-(./sect4.tex
+) (./sect4.tex
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
 ) (./bib.tex
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1.
- [7]
 bibitemlist
 
-Underfull \hbox (badness 1127) in paragraph at lines 38--42
+Underfull \hbox (badness 1127) in paragraph at lines 29--33
 []\T2A/cmr/m/n/12 D. E. Knuth. \T2A/cmr/m/it/12 The T[]Xbook. \T2A/cmr/m/n/12 -
 -- Addison-Wesley, 1984. Рус-ский пе-ре-вод: До-
  []
 
 )
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 177.
+(babel)             in language  on input line 181.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 177.
+(babel)             in language  on input line 181.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 177.
+(babel)             in language  on input line 181.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 177.
+(babel)             in language  on input line 181.
  [8]
 \tf@toc=\write6
 \openout6 = `paper.toc'.
@@ -1709,7 +1708,7 @@ t/fonts/type1/public/cm-super/sfti1095.pfb></usr/share/texlive/texmf-dist/fonts
 public/cm-super/sftt1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 cm-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-supe
 r/sfxc1095.pfb>
-Output written on paper.pdf (8 pages, 341958 bytes).
+Output written on paper.pdf (8 pages, 342278 bytes).
 PDF statistics:
  241 PDF objects out of 1000 (max. 8388607)
  203 compressed objects within 3 object streams
