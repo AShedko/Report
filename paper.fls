@@ -337,6 +337,11 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 INPUT sect2.tex
 INPUT sect2.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
+INPUT /home/ashedko/.texlive2014/texmf-var/fonts/tfm/lh/lh-t2a/lati1095.tfm
 INPUT sect3.tex
 INPUT sect3.tex
 INPUT sect4.tex
@@ -364,6 +369,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb
