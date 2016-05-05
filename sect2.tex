@@ -1,7 +1,7 @@
 \section{Модификация проекта «Интерпретатор арифметических выражений»}
 
 \subsection{Постановка задачи:}
-Вычисляются значения выражений, содержащих битовые операциями  $<<$ и $>>$,
+Вычисляются значения выражений, содержащих битовые операции  \verb|<<| и \verb|>>|,
 приоритет первой из которых является минимальным, а второй — максимальным.
 
 \subsection{Теоретические аспекты:}
@@ -15,16 +15,17 @@ $G_0$:
 \medskip
 \noindent\hspace{2cm}
 \begin{tabular}{rcccccll}
-$S_0 \rightarrow$ & $F $&$\mid$&$ S~L~F$\\
-$F \rightarrow$ & $T $&$\mid$&$ F+T$&$\mid$&$ F-T$\\
-$T \rightarrow$ & $M $&$\mid$&$ T*M$&$\mid$&$ T~/~M$\\
-$S_1 \rightarrow$ & $M $&$\mid$&$ S~R~F$\\
-$M \rightarrow$ & $(S_0)$&$\mid$&$ V$\\
-$V \rightarrow$ & a &$\mid$& b &$\mid$& \dots &$\mid$& z\\
+\verb|S_0| $\rightarrow$ & \verb|F| &$\mid$&\verb|S_0LF|\\
+\verb|F| $\rightarrow$ & \verb|T| &$\mid$&\verb|F+T|&$\mid$&\verb|F-T|\\
+\verb|T| $\rightarrow$ & \verb|M| &$\mid$&\verb|T*M|&$\mid$&\verb|T/M|\\
+\verb|S_1| $\rightarrow$ & \verb|M| &$\mid$& \verb|S_1RF|\\
+\verb|M| $\rightarrow$ & \verb|(S_0)|&$\mid$&\verb|V|\\
+\verb|V| $\rightarrow$ & a &$\mid$& b &$\mid$& \dots &$\mid$& z\\
 \end{tabular}
 \medskip
 
-\noindent{$S_0$~--- Класс сдвигаемых влево выражений; $S_1$~--- Класс сдвигаемых вправо выражений.}
+\noindent{\verb|S_0|~--- класс сдвигаемых влево выражений;\newline
+\verb|S_1|~--- класс сдвигаемых вправо выражений.}
 
 $G_s$ можно оставить без изменений.
 
@@ -47,13 +48,12 @@ $G_s$ можно оставить без изменений.
 Здесь также как и в первом проекте применена хеш-таблица для отображения множества
 операций стекового компилятора в множество операций языка Ruby.
 \begin{lstlisting}
-CONV_TABLE = {'R'=>">>",
-            'L'=>"<<",
-            "+"=>"+",
-            "-"=>"-",
-            "/"=>"/",
-            "*"=>"*"
-            }
+CONV_TABLE = {"R" => ">>",
+              "L" => "<<",
+              "+" => "+",
+              "-" => "-",
+              "/" => "/",
+              "*" => "*"}
 \end{lstlisting}
 В соответствии с задачей, приоритет операций был изменён следующим образом:
 \begin{lstlisting}
@@ -65,16 +65,16 @@ CONV_TABLE = {'R'=>">>",
 \caption{Приоритет операций}
 \begin{center}
 \begin{tabular}{|c|c|}
-\hline 
-Операция & Приоритет \\ 
-\hline 
-\verb|L| & $0$ \\ 
-\hline 
-\verb|+, -| & $1$ \\ 
-\hline 
-\verb|*, /| & $2$ \\ 
-\hline 
-\verb|R| & $3$ \\ 
+\hline
+Операция & Приоритет \\
+\hline
+\verb|L| & $0$ \\
+\hline
+\verb|+, -| & $1$ \\
+\hline
+\verb|*, /| & $2$ \\
+\hline
+\verb|R| & $3$ \\
 \hline
 \end{tabular}
 \end{center}
