@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.11)  11 MAY 2016 10:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.11)  11 MAY 2016 11:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1617,13 +1617,13 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 34.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 34.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 34.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 34.
 
 [6] (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
@@ -1632,13 +1632,13 @@ File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 78.
+(babel)             in language  on input line 81.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 78.
+(babel)             in language  on input line 81.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 78.
+(babel)             in language  on input line 81.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 78.
+(babel)             in language  on input line 81.
  [7]) (./sect3.tex
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
@@ -1704,7 +1704,7 @@ xmf/fonts/type1/public/cm-super/sfti1095.pfb></usr/share/texmf/fonts/type1/publ
 ic/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095
 .pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/tex
 mf/fonts/type1/public/cm-super/sfxc1095.pfb>
-Output written on paper.pdf (8 pages, 340474 bytes).
+Output written on paper.pdf (8 pages, 338075 bytes).
 PDF statistics:
  239 PDF objects out of 1000 (max. 8388607)
  201 compressed objects within 3 object streams
