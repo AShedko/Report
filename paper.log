@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.11)  19 MAY 2016 15:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.6)  26 MAY 2016 15:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **paper.tex
 (./paper.tex
-LaTeX2e <2014/05/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+LaTeX2e <2011/06/27>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2013/05/30 v3.7b configurable book, report, article docu
 ment class
@@ -344,19 +344,19 @@ Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2014/04/30 v1.2b Input encoding file
+Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks22
 \inpenc@posthook=\toks23
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
-File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
@@ -506,7 +506,7 @@ Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00B8 (decimal 184)
@@ -537,7 +537,7 @@ Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -561,21 +561,21 @@ Now handling font encoding U ...
    defining Unicode char U+2423 (decimal 9251)
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2014/09/25 3.9l The Babel package
+Package: babel 2014/03/24 3.9k The Babel package
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
-Language: russianb 2014/10/21 1.3f Russian support for the Babel system
+Language: russian 2013/04/13 1.3a Russian support from the babel system
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2014/09/25 3.9l Babel common definitions
+File: babel.def 2014/03/24 3.9k Babel common definitions
 \babel@savecnt=\count138
 \U@D=\dimen147
 )
 
 Package babel Warning: No Cyrillic font encoding has been loaded so far.
 (babel)                A font encoding should be declared before babel.
-(babel)                Default `T2A' encoding will be loaded  on input line 69.
-
+(babel)                Default `T2A' encoding will be loaded  on input line 111
+.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
@@ -583,7 +583,7 @@ Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
-File: t2aenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+File: t2aenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00AB (decimal 171)
@@ -771,7 +771,7 @@ File: t2aenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+232A (decimal 9002)
    defining Unicode char U+2423 (decimal 9251)
 ))
-Package babel Info: Making " an active character on input line 111.
+Package babel Info: Making " an active character on input line 147.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
@@ -782,7 +782,7 @@ Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
-File: ts1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00A4 (decimal 164)
@@ -942,7 +942,7 @@ Package: amscd 1999/11/29 v2.0
 \minCDarrowwidth=\dimen159
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-Package: amsthm 2009/07/02 v2.20.1
+Package: amsthm 2004/08/06 v2.20
 \thm@style=\toks30
 \thm@bodyfont=\toks31
 \thm@headfont=\toks32
@@ -954,20 +954,20 @@ Package: amsthm 2009/07/02 v2.20.1
 \dth@everypar=\toks35
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
-Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup6
 \symboldletters=\mathgroup7
 \symboldsymbols=\mathgroup8
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 137.
-LaTeX Info: Redefining \bm on input line 203.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 137.
+Package color Info: Driver file: pdftex.def on input line 130.
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
@@ -981,10 +981,10 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gread@gobject=\count151
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks36
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
@@ -1019,15 +1019,15 @@ Package: listingsutf8 2011/11/10 v1.2 Allow UTF-8 in listings input (HO)
 \lst@maxwidth=\dimen165
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
 \c@lstnumber=\count158
 \lst@skipnumbers=\count159
 \lst@framebox=\box32
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2014/09/06 1.5e listings configuration
+File: listings.cfg 2014/03/04 1.5c listings configuration
 ))
-Package: listings 2014/09/06 1.5e (Carsten Heinz)
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -1432,10 +1432,10 @@ Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
 ******************************************************
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2014/09/06 1.5e listings language file
+File: lstlang1.sty 2014/03/04 1.5c listings language file
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
-File: lstlang2.sty 2014/09/06 1.5e listings language file
+File: lstlang2.sty 2014/03/04 1.5c listings language file
 ) (./paper.aux)
 \openout1 = `paper.aux'.
 
@@ -1458,7 +1458,7 @@ LaTeX Font Info:    Try loading font information for TS1+cmr on input line 156.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 156.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 156.
@@ -1539,7 +1539,8 @@ Package babel Info: Redefining russian shorthand "~
  [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./annotation.tex)
+{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}] (./annotati
+on.tex)
 Overfull \hbox (4.12592pt too wide) in paragraph at lines 1--168
 \T2A/cmr/m/n/12 тер-пре-та-тор ариф-ме-ти-че-ских вы-ра-же-нийї, ѕВы-пук-лая об
 о-лоч-каї и ѕИзоб-
@@ -1581,7 +1582,7 @@ Package babel Info: Redefining russian shorthand "~
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 50.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
@@ -1644,35 +1645,116 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
-<images/conv_a_1.png, id=150, 390.258pt x 136.5903pt>
+<images/conv_a_1.png, id=155, 390.258pt x 136.5903pt>
 File: images/conv_a_1.png Graphic file (type png)
 
 <use images/conv_a_1.png>
 Package pdftex.def Info: images/conv_a_1.png used on input line 21.
 (pdftex.def)             Requested size: 234.1566pt x 81.9548pt.
 
-<images/conv_a_2.png, id=152, 347.6187pt x 188.6247pt>
+<images/conv_a_2.png, id=157, 347.6187pt x 188.6247pt>
 File: images/conv_a_2.png Graphic file (type png)
 
 <use images/conv_a_2.png>
-Package pdftex.def Info: images/conv_a_2.png used on input line 47.
+Package pdftex.def Info: images/conv_a_2.png used on input line 44.
 (pdftex.def)             Requested size: 208.57281pt x 113.17567pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 56.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 56.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 56.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 58.
- [8 <./images/conv_a_1.png (PNG copy)>]) (./sect4.tex
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1.
-) (./bib.tex
-bibitemlist
+(babel)             in language  on input line 56.
+ [8 <./images/conv_a_1.png (PNG copy)>]
+<images/convex_ill.png, id=174, 456.95718pt x 638.385pt>
+File: images/convex_ill.png Graphic file (type png)
 
+<use images/convex_ill.png>
+Package pdftex.def Info: images/convex_ill.png used on input line 81.
+(pdftex.def)             Requested size: 274.1764pt x 383.03394pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 87.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 87.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 87.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 87.
+ [9 <./images/conv_a_2.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 114.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 114.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 114.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 114.
+ [10 <./images/convex_ill.png>] <images/conv_rect.png, id=190, 599.23875pt x 48
+0.79625pt>
+File: images/conv_rect.png Graphic file (type png)
+
+<use images/conv_rect.png>
+Package pdftex.def Info: images/conv_rect.png used on input line 118.
+(pdftex.def)             Requested size: 239.69125pt x 192.31508pt.
+
+<images/conv_case1.png, id=193, 518.93875pt x 412.54124pt>
+File: images/conv_case1.png Graphic file (type png)
+
+<use images/conv_case1.png>
+Package pdftex.def Info: images/conv_case1.png used on input line 138.
+(pdftex.def)             Requested size: 207.57182pt x 165.01357pt.
+
+<images/conv_case2.png, id=194, 840.13875pt x 474.77374pt>
+File: images/conv_case2.png Graphic file (type png)
+
+<use images/conv_case2.png>
+Package pdftex.def Info: images/conv_case2.png used on input line 139.
+(pdftex.def)             Requested size: 336.04955pt x 189.90613pt.
+
+<images/conv_case3.png, id=195, 839.135pt x 634.37pt>
+File: images/conv_case3.png Graphic file (type png)
+
+<use images/conv_case3.png>
+Package pdftex.def Info: images/conv_case3.png used on input line 140.
+(pdftex.def)             Requested size: 335.64804pt x 253.7435pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 150.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 150.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 150.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 150.
+ [11 <./images/conv_rect.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 150.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 150.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 150.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 150.
+ [12 <./images/conv_case1.png> <./images/conv_case2.png> <./images/conv_case3.p
+ng>]) (./sect4.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 1.
+)
+(./bib.tex
+bibitemlist
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 18.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 18.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 18.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 18.
+[13]
 Underfull \hbox (badness 1127) in paragraph at lines 29--33
 []\T2A/cmr/m/n/12 D. E. Knuth. \T2A/cmr/m/it/12 The T[]Xbook. \T2A/cmr/m/n/12 -
 -- Addison-Wesley, 1984. Рус-ский пе-ре-вод: До-
@@ -1680,6 +1762,51 @@ Underfull \hbox (badness 1127) in paragraph at lines 29--33
 
 )
 Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 177.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 177.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 177.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 177.
+ [14] (./appendix1.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 1.
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
+File: koi8-r.def 1999/11/16 v1.0d Input encoding file
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-utf8.def
+File: se-utf8.def 2011/12/02 v1.10 stringenc: UTF-8
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-koi8-r.def
+File: se-koi8-r.def 2011/12/02 v1.10 stringenc: KOI8-R
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 49.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 49.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 49.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 49.
+ [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 99.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 99.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 99.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 99.
+ [16])
+Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 181.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 181.
@@ -1687,7 +1814,8 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 181.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 181.
- [9 <./images/conv_a_2.png (PNG copy)>]
+
+[17]
 \tf@toc=\write6
 \openout6 = `paper.toc'.
 
@@ -1697,41 +1825,49 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 181.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
 Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: 0B691DFA48FFB5612291FD24A4B6E61A;1801.
+(rerunfilecheck)             Checksum: 1A25272AF052B2E6306EF52C1178BE6F;1942.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
  ) 
 Here is how much of TeX's memory you used:
- 23897 strings out of 493105
- 376912 string characters out of 6137076
- 483297 words of memory out of 5000000
- 26792 multiletter control sequences out of 15000+600000
- 32074 words of font info for 82 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 52i,11n,45p,869b,1520s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dis
+ 24464 strings out of 493309
+ 385033 string characters out of 6140104
+ 533841 words of memory out of 5000000
+ 27169 multiletter control sequences out of 15000+600000
+ 39920 words of font info for 101 fonts, out of 8000000 for 9000
+ 953 hyphenation exceptions out of 8191
+ 52i,12n,45p,935b,2283s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbo
-ls/msbm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1095.pfb></usr/
-share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/ty
-pe1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/
-sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1200.pfb></usr/s
-hare/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/typ
-e1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
-frm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/sh
-are/texmf/fonts/type1/public/cm-super/sfti0800.pfb></usr/share/texmf/fonts/type
-1/public/cm-super/sfti1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
-ti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb></usr/sha
-re/texmf/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texmf/fonts/type1
-/public/cm-super/sfxc1095.pfb>
-Output written on paper.pdf (9 pages, 373440 bytes).
+ls/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbi12
+00.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/cm-super/sfcc1200.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/cm-super/sfrm0700.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/cm-super/sfrm0800.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-sup
+er/sfrm1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm
+1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/cm-super/sfxc1095.pfb>
+Output written on paper.pdf (17 pages, 801492 bytes).
 PDF statistics:
- 266 PDF objects out of 1000 (max. 8388607)
- 222 compressed objects within 3 object streams
- 77 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 508 PDF objects out of 1000 (max. 8388607)
+ 439 compressed objects within 5 object streams
+ 218 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
